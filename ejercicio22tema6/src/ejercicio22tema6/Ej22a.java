@@ -1,6 +1,6 @@
-package ejercicio22tema6;
+package ejercicio22atema6;
 
-public class Ej22 {
+public class Ej22a {
 	
 	class Palabra {
 		String termino;
